@@ -1,26 +1,3 @@
-<!-- Custom Style for Font (works on GitHub Pages, not plain GitHub) -->
-<style>
-body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  color: #222;
-  line-height: 1.6;
-  letter-spacing: 0.02em;
-}
-h1, h2, h3, h4 {
-  font-weight: 600;
-  margin-top: 1.6em;
-  margin-bottom: 0.5em;
-  letter-spacing: 0.01em;
-}
-code, pre {
-  font-family: 'SF Mono', 'Menlo', 'Monaco', 'Consolas', monospace;
-  background: #f4f4f4;
-  padding: .2em .4em;
-  border-radius: 4px;
-}
-</style>
-
 # upgraded-couscous
 
 A thoughtfully designed solution that emphasizes clarity, efficiency, and ease of use.
@@ -49,4 +26,3 @@ A thoughtfully designed solution that emphasizes clarity, efficiency, and ease o
 git clone https://github.com/yourusername/yourapp.git
 cd yourapp
 npm install
-
