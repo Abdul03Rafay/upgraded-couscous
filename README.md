@@ -1,5 +1,3 @@
-# upgraded-couscous
---
 <!-- Custom Style for Font (works on GitHub Pages, not plain GitHub) -->
 <style>
 body {
@@ -23,7 +21,7 @@ code, pre {
 }
 </style>
 
-# YourApp
+# upgraded-couscous
 
 A thoughtfully designed solution that emphasizes clarity, efficiency, and ease of use.
 
